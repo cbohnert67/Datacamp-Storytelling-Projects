@@ -7,7 +7,7 @@ The research question is the following:
 
 Does Netflix movies duration decline throughout years ?
 
-To answer that question, I will start by creating a DataFrame containing my friend's data and then visualize the trend that suggest him the research question.
+To answer that question, I will start by creating a DataFrame containing my friend's data and then visualize the trend that suggests him and me the research question.
 
 Then, I will use a Netflix dataset to further investigate the movies' duration throughout years.
 
