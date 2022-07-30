@@ -10,4 +10,4 @@ I will try to visualize the evolution of the project and to find out who has had
 
 You will see that the Scala project is steadily still active and is a welcoming open source community to work with.
 
-I found out the most recent files under development and I found out likely the most active and experienced user that could help in pa specific file. 
+I found out the most recent files under development and I found out likely the most active and experienced user that could help in a specific file. 
