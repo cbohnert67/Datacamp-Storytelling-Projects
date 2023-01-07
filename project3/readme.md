@@ -18,7 +18,6 @@ The data consist of two files:
 
 `user_reviews.csv`: contains 100 reviews for each app, most helpful first
 
-    .
 The text in each review has been pre-processed and attributed with three new features: Sentiment (Positive, Negative or Neutral), Sentiment Polarity and Sentiment Subjectivity.
 
 These three new features will help doing a quick sentiment analysis of app through reviews.
