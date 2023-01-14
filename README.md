@@ -8,4 +8,6 @@ This is home to the projects I developped during my learning journey through the
 
 3. [Investigating the Android App Market on Google Play](https://github.com/cbohnert67/Datacamp-Storytelling-Projects/tree/main/project3)
 
+4. [A Visual History of Nobel Prize Winners](https://github.com/cbohnert67/Datacamp-Storytelling-Projects/tree/main/project4)
+
 Happy reading!
